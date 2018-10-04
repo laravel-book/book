@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [HTTP 入口解析](chapter/HTTP 入口解析.md)
-* [HTTP Kernel Handle 解析](chapter/02. HTTP Kernel Handle 解析.md)
-* [ServiceProvider Register](https://github.com/xiaohuilam/laravel/issues/3)
+* [HTTP Kernel Handle 解析](chapter/HTTP Kernel Handle 解析.md)
+* [ServiceProvider Register](chapter/ServiceProvider Register 解析.md)
 * [ServiceProvider Boot](https://github.com/xiaohuilam/laravel/issues/4)
 * [Pipeline 管道](https://github.com/xiaohuilam/laravel/issues/5)
 * [Response 对象](https://github.com/xiaohuilam/laravel/issues/14)
