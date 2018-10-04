@@ -219,4 +219,4 @@ https://github.com/xiaohuilam/laravel/blob/7028b17ed8bf35ee2f1269c0f9c985b411cb4
 ---
  * `Illuminate\Foundation\Application` 的 `singleton`、`bind` 方法和 `make` 解析请见 [10. 容器的 singleton 和 bind 的实现](https://github.com/xiaohuilam/laravel/issues/10)
  * `App\Http\Kernel` 的 handle 方法解析请见 [#02. Kernel Handle解析](https://github.com/xiaohuilam/laravel/issues/2)
- * `App\Http\Kernel` 的 terminate 方法解析请见 [TODO]
+ * `App\Http\Kernel` 的 terminate 方法解析请见 [14. Response 对象和 Kernel::terminate](https://github.com/xiaohuilam/laravel/issues/14)
