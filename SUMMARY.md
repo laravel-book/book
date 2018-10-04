@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [HTTP 入口解析](chapter/HTTP 入口解析.md)
-* [HTTP Kernel Handle 解析](https://github.com/xiaohuilam/laravel/issues/2)
+* [HTTP Kernel Handle 解析](chapter/02. HTTP Kernel Handle 解析.md)
 * [ServiceProvider Register](https://github.com/xiaohuilam/laravel/issues/3)
 * [ServiceProvider Boot](https://github.com/xiaohuilam/laravel/issues/4)
 * [Pipeline 管道](https://github.com/xiaohuilam/laravel/issues/5)
