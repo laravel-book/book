@@ -5,7 +5,7 @@
 * [HTTP Kernel Handle 解析](chapter/HTTP Kernel Handle 解析.md)
 * [ServiceProvider Register](chapter/ServiceProvider Register 解析.md)
 * [ServiceProvider Boot](chapter/ServiceProvider Boot 解析.md)
-* [Pipeline 管道](https://github.com/xiaohuilam/laravel/issues/5)
+* [Pipeline 管道](chapter/Pipeline 解析.md)
 * [Response 对象](https://github.com/xiaohuilam/laravel/issues/14)
 * 服务提供者详解
   * [RouteServiceProvider](https://github.com/xiaohuilam/laravel/issues/6)
