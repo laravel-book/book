@@ -8,8 +8,7 @@
 * [Pipeline 管道](chapter/Pipeline 解析.md)
 * [Response 对象](https://github.com/xiaohuilam/laravel/issues/14)
 * 服务提供者详解
-  * [RouteServiceProvider](https://github.com/xiaohuilam/laravel/issues/6)
-  * AuthServiceProvider
+  * [RouteServiceProvider](chapter/RouteServiceProvider 详解.md)
   * SessionServiceProvider
 * Container
   * [依赖注入](https://github.com/xiaohuilam/laravel/issues/9)
